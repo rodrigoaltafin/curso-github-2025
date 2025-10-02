@@ -3,3 +3,4 @@ pwd
 cd ..
 cat  - exibe conteudo arquivo
 rm = remove arquivo ou dir
+rm -rf = remove recursivo
