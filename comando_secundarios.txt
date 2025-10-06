@@ -1,1 +1,3 @@
 esse arqui contem comandos secundarios
+
+comandos estranhos
